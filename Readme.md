@@ -6,7 +6,7 @@ sebuah game tebak angka sederhana yang dibuat menggunakan bahasa pemrograman jav
 * JAVASCRIPT 
 
 ### demo program 
-[tekan link ini](https://candradwicahyo.githuh.io/game-tebak-angka) untuk mencoba demo dari program ini
+[tekan link ini](https://candradwicahyo.github.io/game-tebak-angka) untuk mencoba demo dari program ini
 
 semoga source code ini bermanfaat untuk kalian semua :)
 
